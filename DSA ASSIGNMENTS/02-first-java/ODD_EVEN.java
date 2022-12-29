@@ -1,7 +1,3 @@
-package DSAKK;
-
-import java.util.Scanner;
-
 public class ODD_EVEN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
